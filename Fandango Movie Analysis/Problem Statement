@@ -1,2 +1,0 @@
-Fandango is an online movie review website. It shows stars, rating and votes given by the users. However, some discrepency was detected. The Fandango website was believed to show higher rating than the actual rating. To test this assumption we here compare ratings from Fandango website, IMDB website, Metacritic website and Rotten Tomatoes website.
-Based on the dataset find out if the assumption that Fandango website show higher rating than the actual rating is true or not.
