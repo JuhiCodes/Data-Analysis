@@ -1,0 +1,1 @@
+Here In this project we analyse US International Air Traffic data. We find out the busiest airports both in US and in Foreign countries. We make use of graphs to discover interesting trends and to make data interpretation easier.
